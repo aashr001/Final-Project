@@ -1,26 +1,17 @@
-﻿//using System.Collections;
-//using System.Collections.Generic;
-//using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
 
- // public class MainMenuButtons : MonoBehaviour {
+public class MainMenuButtons : MonoBehaviour
+{
+    public Image ObjectwithImage;
 
-   // public string nextLevel;
-    //public Texture2D originalTexture;
-    //public Texture2D highlightedTexture;
-    //public AudioClip clickSound;
-
-
-    //void OnMouseEnter()
-    //{
-     //   guiTexture.image = highlightedTexture;
-    //}
-
-    //void OnMouseExit()
-    //{
-     //   guiTexture.texture = originalTexture;
-    //}
+    public Sprite spriteToChangeItTo;
+    void Start()
+    {
+        ObjectwithImage.sprite = spriteToChangeItTo;
+    }
+}
 
 
-//}
-	
 

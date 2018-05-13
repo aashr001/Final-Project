@@ -17,12 +17,18 @@ public class AutoText : MonoBehaviour {
 	
     IEnumerator DisplayText()
     {
-        for (int i =0; i <wholeText.Length; i++)
+        int i = 0;
+        while (i < wholeText.Length)
         {
             currentText = wholeText.Substring(0, i);
             this.GetComponent<Text>().text = currentText;
+            i++;
             yield return new WaitForSeconds(wait);
+            
         }
+
+       
+        
     }
 		
 }
