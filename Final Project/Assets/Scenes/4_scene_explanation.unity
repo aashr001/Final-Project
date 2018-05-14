@@ -246,8 +246,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: YAAS! Congratulations, you're a Hogwarts champion! You've been selected
-    for the Triwizard Tournament and your first task is ready to begin...
+  m_Text: YES! Congratulations, you're a Hogwarts champion! You've been selected for
+    the Triwizard Tournament and your first task is ready to begin...
 --- !u!222 &685580654
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -266,7 +266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wait: 0.08
-  wholeText: YAAS! Congratulations, you're a Hogwarts champion! You've been selected
+  wholeText: YES! Congratulations, you're a Hogwarts champion! You've been selected
     for the Triwizard Tournament and your first task is ready to begin....
 --- !u!1 &841049361
 GameObject:
@@ -475,7 +475,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -690,7 +690,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 351, y: -144}
+  m_AnchoredPosition: {x: 334, y: -124}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1426955722

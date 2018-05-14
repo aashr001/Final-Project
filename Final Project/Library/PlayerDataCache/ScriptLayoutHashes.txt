@@ -2,9 +2,26 @@ WindowsStandalone
 PlayerPath?
 D:/Final Project/Game.exe
 SceneListBegin?
-Assets/MainMenu.unity
-Assets/GameSetting.unity
-Assets/HouseSelection.unity
+Assets/Scenes/MainMenu.unity
+Assets/Scenes/HouseSelection.unity
+Assets/Scenes/GameSetting.unity
+Assets/Scenes/4_scene_explanation.unity
+Assets/Scenes/5_first_task.unity
+Assets/Scenes/6_first_task_options.unity
+Assets/Scenes/7_first_task_first_outcome.unity
+Assets/Scenes/8_first_task_second_outcome.unity
+Assets/Scenes/9_second_task_explanation (part 1).unity
+Assets/Scenes/9_second_task_explanation (part 2).unity
+Assets/Scenes/10_Second_task_first_scenario_options.unity
+Assets/Scenes/11_second_task_first_scenario_outcome.unity
+Assets/Scenes/12_second_task_second_scenario_options.unity
+Assets/Scenes/13_second_task_second_outcome.unity
+Assets/Scenes/14_third_task_explanation.unity
+Assets/Scenes/14_third_task_explanation(part 2).unity
+Assets/Scenes/15_third_task_first_scenario.unity
+Assets/Scenes/16_third _task_second_scenario.unity
+Assets/Scenes/17_third_task _first _outcome.unity
+Assets/Scenes/18_third _task _second _outcome.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 4b12dd839b2293f8457cd67cc3610b85 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -82,6 +99,7 @@ c63db43c730fa2cbb8ca07de15898cb6 UnityEngine.UI.dll:UnityEngine.UI.Toggle
 f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+baef386fbaf1e82b8a7953acbfff959e Assembly-CSharp.dll:.LoadLevel
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 4b12dd839b2293f8457cd67cc3610b85 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -152,4 +170,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 007d28de0e5ff0cef112442c98f5e11c Assembly-CSharp.dll:.MainMenuButtons
 0149b6f7a7fe571646bd990774700323 Assembly-CSharp.dll:.AutoText
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LoadLevel
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QuitApplication
