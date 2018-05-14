@@ -4,4 +4,64 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 33f58ac606d82304ab2cb1b3a1ecd782
+  - enabled: 1
+    path: Assets/Scenes/HouseSelection.unity
+    guid: 819387eba9fb6744e9c8981d46576f22
+  - enabled: 1
+    path: Assets/Scenes/GameSetting.unity
+    guid: 0c94c3536c7284747b4ca3fdd3cf9efe
+  - enabled: 1
+    path: Assets/Scenes/4_scene_explanation.unity
+    guid: 5262198b069428648807c2de28df1441
+  - enabled: 1
+    path: Assets/Scenes/5_first_task.unity
+    guid: 99aa9c3e9eb123c4dbe8b7694c83f429
+  - enabled: 1
+    path: Assets/Scenes/6_first_task_options.unity
+    guid: 852e8ee75aae77c48946d58813f093b4
+  - enabled: 1
+    path: Assets/Scenes/7_first_task_first_outcome.unity
+    guid: c18ea221c9b710f4a8aa3e570fd37b1f
+  - enabled: 1
+    path: Assets/Scenes/8_first_task_second_outcome.unity
+    guid: 093f1503d76cc814faeb0a0b16ecafcf
+  - enabled: 1
+    path: Assets/Scenes/9_second_task_explanation (part 1).unity
+    guid: 746e5859c65b8df418f53dacaf23d1e3
+  - enabled: 1
+    path: Assets/Scenes/9_second_task_explanation (part 2).unity
+    guid: 829f92590dbb14d4e8774594e743e8b0
+  - enabled: 1
+    path: Assets/Scenes/10_Second_task_first_scenario_options.unity
+    guid: 50a3e47c0caf9ef4faa8e2f0f3583212
+  - enabled: 1
+    path: Assets/Scenes/11_second_task_first_scenario_outcome.unity
+    guid: 684254b016355744aba91d73e364ca3f
+  - enabled: 1
+    path: Assets/Scenes/12_second_task_second_scenario_options.unity
+    guid: c43ac42b1da876d42a9988006b65e3b4
+  - enabled: 1
+    path: Assets/Scenes/13_second_task_second_outcome.unity
+    guid: a49e3322ee501cc438804b97a2740c32
+  - enabled: 1
+    path: Assets/Scenes/14_third_task_explanation.unity
+    guid: 1ad7e619601a19e448d2a47fa2e98d60
+  - enabled: 1
+    path: Assets/Scenes/14_third_task_explanation(part 2).unity
+    guid: 278c45e10fae35b40ba962eba881ce1f
+  - enabled: 1
+    path: Assets/Scenes/15_third_task_first_scenario.unity
+    guid: 9d8ccacd83c95ca49aa3a0a2c1305b18
+  - enabled: 1
+    path: Assets/Scenes/16_third _task_second_scenario.unity
+    guid: e101c0cd39644b3428fd377d420edf67
+  - enabled: 1
+    path: Assets/Scenes/17_third_task _first _outcome.unity
+    guid: fc36f6db405b2de42b91ee6d330a0a51
+  - enabled: 1
+    path: Assets/Scenes/18_third _task _second _outcome.unity
+    guid: fbc322429b8674f44b6a53c2f66e7a21

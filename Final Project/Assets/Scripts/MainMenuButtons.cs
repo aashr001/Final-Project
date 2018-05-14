@@ -1,15 +1,41 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class MainMenuButtons : MonoBehaviour
 {
-    public Image ObjectwithImage;
+    public Button button;
+    public Sprite normalImage;
+    public Sprite highlightedImage;
+    public bool mouseOver = false;
+     public string nextLevel;
+    public bool quit = false;
 
-    public Sprite spriteToChangeItTo;
-    void Start()
+    
+  /*  void Start()
     {
-        ObjectwithImage.sprite = spriteToChangeItTo;
+        button = GetComponent<Button>();
+
+    }
+
+    public void OnMouseEnter()
+    {
+        mouseOver = true;
+        button.image.overrideSprite = highlightedImage; 
+    }
+
+    public void OnMouseExit()
+    {
+        mouseOver = false;
+        button.image.overrideSprite = normalImage;
+    } */
+
+   public void LoadLevel()
+    {
+        SceneManager.LoadScene(nextLevel);
+   
     }
 }
 
