@@ -579,9 +579,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '
-
-    2. Get another chance to get the golden egg'
+  m_Text: "\n   Get another chance to get the golden egg"
 --- !u!222 &889300659
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1224,11 +1222,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '
-
-    1. Your BFF
-
-'
+  m_Text: "\n  Your BFF\n"
 --- !u!222 &2090072678
 CanvasRenderer:
   m_ObjectHideFlags: 0
