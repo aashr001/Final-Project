@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/5_first_task.unity
+- path: Assets/Scenes/10_Second_task_first_scenario_options.unity
   isLoaded: 1
   isActive: 1
